@@ -8,6 +8,6 @@ https://www.machinehack.com/ is an online platform for Machine Learning competit
 
 - [Predicting The Costs Of Used Cars - Hackathon By Imarticus Learning](https://www.machinehack.com/course/predicting-the-costs-of-used-cars-hackathon-by-imarticus/)
 
-  - Rank 5th/ 373
+  - Rank 16th/373
   
   - Solution
