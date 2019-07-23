@@ -1,6 +1,6 @@
 # DataScience-MachineHack
 
-https://www.machinehack.com/ is an online platform for Machine Learning competitions. It hosts Machine Learning & Data Sciencebusiness problems.
+https://www.machinehack.com/ is an online platform for Machine Learning competitions. It hosts Machine Learning & Data Science business problems.
 
 
 
