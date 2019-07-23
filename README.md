@@ -10,4 +10,4 @@ https://www.machinehack.com/ is an online platform for Machine Learning competit
 
   - Rank 16th/373
   
-  - Solution
+  - [Solution](https://www.kaggle.com/kksienc/machine-hack-predictingthecostsofusedcars)
